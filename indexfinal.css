@@ -1,0 +1,45 @@
+body{
+	background-color:#28211c;
+
+}
+
+h1{
+	color:#54be0d;
+	font-size:40px;
+	text-align:center;
+}
+h2{
+	color:#5ea6ea;
+	font-size:30px;
+}
+
+
+p{
+	color:#baae9e;
+	font-size:20px;
+}
+
+
+a{
+	color:#cf6a4c;
+	font-size:20px;
+}
+
+.topnav { 
+	background-color:#baae9e;
+	overflow:hidden;
+
+}
+.topnav a{
+	float:left;
+	color:black;
+	text-align: center; 
+	padding: 14px 16px; 
+	text-decoration:none;
+	font-size:22px;
+}
+
+.topnav a:hover{ 
+	background-color:#54be0d;
+	color:black;
+}
